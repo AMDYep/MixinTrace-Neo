@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.amdyep.mixintrace.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixintrace.refmap.json",
+  "mixins": [
+    "Mixin$CrashReport",
+    "Mixin$CrashReportCategory"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
