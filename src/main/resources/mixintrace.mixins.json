@@ -8,8 +8,6 @@
     "Mixin$CrashReport",
     "Mixin$CrashReportCategory"
   ],
-  "client": [
-  ],
   "injectors": {
     "defaultRequire": 1
   }
