@@ -2,13 +2,13 @@
 
 ## Intro
 
-Fork of [MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace), compatible with both Forge and NeoForge.
+Fork of [MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace), compatible with NeoForge.
 
 Adds a list of mixins (and Mixin configuration names) to classes in the stack trace to crash reports.
 
 Check [MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace)'s description for detail :D
 
-Likely to work on Forge 1.18.2+ and NeoForge 1.20.2+ (20.2.+)
+Likely to work on NeoForge 1.20.2+ (20.2.+)
 
 ## Licenses
 
